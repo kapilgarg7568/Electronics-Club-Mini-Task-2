@@ -21,7 +21,7 @@ Here we have used
   LCD to display the data recieved from sensors
   
 | Component | Replaceable by | Advantage | Disadvantage |
-| --- | --- |
+| --- | --- | --- | --- |
 | Arduino UNO | TTGO T-Call | This is an ESP32 devlopment board which comes with integrated SIM800L GSM GPRS module and wireless(wifi and bluetooth) connectvity. We can also send data to third party server like ThingSpeak and it is much faster than Arduino | it is slightly on the expensive side in comparison to arduino |
 
 
