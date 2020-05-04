@@ -2,9 +2,9 @@
 
 **Problem Statement:**
 
-To create an advanced automated irrigation system which can keep track the current atmospheric and weather conditions like moisture in soil and humidity present and accordingly turn on/off the water supply with updating the status of water pump and soil moisture by sending and recieving message.
+To create an advanced automated irrigation system which can keep track the current atmospheric and weather conditions like moisture in soil and humidity present and accordingly turn on/off the water supply with updating the status of water pump and soil moisture by sending and recieving messages.
 
-**Ideation
+**Ideation**
 
 - Understanding the mechanism: 
 
