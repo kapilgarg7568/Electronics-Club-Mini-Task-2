@@ -15,10 +15,11 @@ dispaly the data recieved from differnt sensors <=`Microcontroller`=>Send Update
 
 Here we have used
 - Arduino UNO as microcontroller
--SIM800L for sending and recieving messages
--DHT11 sensor for temperature and humidity 
--soil moisture sensor
--LCD to display the data recieved from sensors
+- SIM800L for sending and recieving messages
+- DHT11 sensor for temperature and humidity 
+- soil moisture sensor
+- LCD to display the data recieved from sensors
+
   
 | Component | Replaceable by | Advantage | Disadvantage |
 | --- | --- | --- | --- |
