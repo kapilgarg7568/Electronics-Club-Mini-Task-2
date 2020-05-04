@@ -29,11 +29,12 @@ Here we have used
 
 
 The suggested approach for the project is quite good but some changes can make it more feasible and easy to use. 
+
 **TTGO T-Call**:
 This ESP32 based devlopment board is quite effective in comparison to Arduino.It has inbuilt GSM GPRS module(SIM800L) to send messages and make phone calls We can also send data to third party server like ThingSpeak (so that we can access the data anywhere)  and it is much faster than Arduino.
 
 **Rain Sensosr**: 
-Installing a Rain Sensor to the irrigation palnt will work as a power saver and water saver as well for the plant. We can connect it to the powersupply through the Realy module(NO) which will cause the system to shut in the event of rainfall.
+Installing a Rain Sensor to the irrigation palnt will work as a power saver and water saver as well for the plant. We can connect it to the power supply through the Realy module(NO) which will cause the system to shut in the event of rainfall.
 
 
 
