@@ -6,11 +6,11 @@ To create an advanced automated irrigation system which can keep track the curre
 
 **Ideation
 
-- Understanding the mechanism:  
-                                          Send Updates and Recieve messages
-                                                        /\
-                                                        ||
+- Understanding the mechanism: 
+------------------------------------------Send Updates and Recieve messages
+--------------------------------------------------------/\
+--------------------------------------------------------||
 Temp.,Humidity and Soil Moisture sensor=>Input for Microcontroller(Analyse the input signal)=>give command to Relay=>Water Pump 
-=>Irrigation to plants                                  ||
-                                                        \/
-                                        Show the all sensor's output on display
+=>Irrigation to plants.---------------------------------||
+--------------------------------------------------------\/
+-----------------------------------------Show the all sensor's output on display
