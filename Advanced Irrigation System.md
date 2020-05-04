@@ -8,7 +8,7 @@ To create an advanced automated irrigation system which can keep track the curre
 
 - Understanding the mechanism: 
 
-`Temp.,Humidity and Soil Moisture sensor`=>Input for `Microcontroller`(Analyse the input signal)`=>give command to `Relay`=>Water Pump` 
+`Temp.,Humidity and Soil Moisture sensor`=>Input for `Microcontroller`(Analyse the input signal)=>give command to `Relay`=>`Water Pump` 
 =>`Irrigation to plants.`
 
-|dispaly the data recieved from differnt sensors|<=`Microcontroller`=>|Send Updates and Recieve messages|
+| dispaly the data recieved from differnt sensors |<=`Microcontroller`=>| Send Updates and Recieve messages |
